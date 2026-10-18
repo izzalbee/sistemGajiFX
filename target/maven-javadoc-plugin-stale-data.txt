@@ -35,17 +35,20 @@ com.mycompany.sistemgajifx='D:/OOP/SistemGajiFX/src/main/java'
 -windowtitle
 'SistemGajiFX 1.0-SNAPSHOT API'
 com.mycompany.sistemgajifx
+com.mycompany.sistemgajifx.controller
+com.mycompany.sistemgajifx.model
+com.mycompany.sistemgajifx.view
 'D:/OOP/SistemGajiFX/src/main/java/module-info.java'
-D:\OOP\SistemGajiFX\target\reports\apidocs\allclasses-index.html = 1792295440441
-D:\OOP\SistemGajiFX\target\reports\apidocs\allpackages-index.html = 1792295440443
-D:\OOP\SistemGajiFX\target\reports\apidocs\element-list = 1792295440400
-D:\OOP\SistemGajiFX\target\reports\apidocs\help-doc.html = 1792295440460
-D:\OOP\SistemGajiFX\target\reports\apidocs\index-all.html = 1792295440452
-D:\OOP\SistemGajiFX\target\reports\apidocs\index.html = 1792295440456
-D:\OOP\SistemGajiFX\target\reports\apidocs\member-search-index.js = 1792295440445
-D:\OOP\SistemGajiFX\target\reports\apidocs\module-search-index.js = 1792295440444
-D:\OOP\SistemGajiFX\target\reports\apidocs\overview-tree.html = 1792295440434
-D:\OOP\SistemGajiFX\target\reports\apidocs\package-search-index.js = 1792295440444
-D:\OOP\SistemGajiFX\target\reports\apidocs\search.html = 1792295440454
-D:\OOP\SistemGajiFX\target\reports\apidocs\tag-search-index.js = 1792295440445
-D:\OOP\SistemGajiFX\target\reports\apidocs\type-search-index.js = 1792295440445
+D:\OOP\SistemGajiFX\target\reports\apidocs\allclasses-index.html = 1792318246949
+D:\OOP\SistemGajiFX\target\reports\apidocs\allpackages-index.html = 1792318246953
+D:\OOP\SistemGajiFX\target\reports\apidocs\element-list = 1792318246700
+D:\OOP\SistemGajiFX\target\reports\apidocs\help-doc.html = 1792318247020
+D:\OOP\SistemGajiFX\target\reports\apidocs\index-all.html = 1792318247000
+D:\OOP\SistemGajiFX\target\reports\apidocs\index.html = 1792318247008
+D:\OOP\SistemGajiFX\target\reports\apidocs\member-search-index.js = 1792318246962
+D:\OOP\SistemGajiFX\target\reports\apidocs\module-search-index.js = 1792318246956
+D:\OOP\SistemGajiFX\target\reports\apidocs\overview-tree.html = 1792318246913
+D:\OOP\SistemGajiFX\target\reports\apidocs\package-search-index.js = 1792318246958
+D:\OOP\SistemGajiFX\target\reports\apidocs\search.html = 1792318247005
+D:\OOP\SistemGajiFX\target\reports\apidocs\tag-search-index.js = 1792318246963
+D:\OOP\SistemGajiFX\target\reports\apidocs\type-search-index.js = 1792318246960

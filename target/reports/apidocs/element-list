@@ -1,2 +1,5 @@
 module:com.mycompany.sistemgajifx
 com.mycompany.sistemgajifx
+com.mycompany.sistemgajifx.controller
+com.mycompany.sistemgajifx.model
+com.mycompany.sistemgajifx.view
