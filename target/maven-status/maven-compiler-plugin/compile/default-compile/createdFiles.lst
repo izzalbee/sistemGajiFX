@@ -1,0 +1,14 @@
+com\mycompany\sistemgajifx\controller\MainFX.class
+com\mycompany\sistemgajifx\model\Perusahaan.class
+com\mycompany\sistemgajifx\model\Departemen.class
+com\mycompany\sistemgajifx\App.class
+com\mycompany\sistemgajifx\controller\Launcher.class
+com\mycompany\sistemgajifx\model\Tunjangan.class
+com\mycompany\sistemgajifx\model\Jabatan.class
+com\mycompany\sistemgajifx\view\FrameDetailFX.class
+com\mycompany\sistemgajifx\model\KaryawanTetap.class
+module-info.class
+com\mycompany\sistemgajifx\model\Freelance.class
+com\mycompany\sistemgajifx\model\Karyawan.class
+com\mycompany\sistemgajifx\SystemInfo.class
+com\mycompany\sistemgajifx\view\FrameUtamaFX.class

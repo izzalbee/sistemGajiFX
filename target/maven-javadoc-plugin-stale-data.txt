@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--no-fonts
+--class-path
+'C:/Users/ACER/.m2/repository/org/openjfx/javafx-controls/21.0.9/javafx-controls-21.0.9.jar;C:/Users/ACER/.m2/repository/org/openjfx/javafx-graphics/21.0.9/javafx-graphics-21.0.9.jar;C:/Users/ACER/.m2/repository/org/openjfx/javafx-base/21.0.9/javafx-base-21.0.9.jar'
+--module-path
+'C:/Users/ACER/.m2/repository/org/openjfx/javafx-controls/21.0.9/javafx-controls-21.0.9-win.jar;D:/OOP/SistemGajiFX/target/classes;C:/Users/ACER/.m2/repository/org/openjfx/javafx-graphics/21.0.9/javafx-graphics-21.0.9-win.jar;C:/Users/ACER/.m2/repository/org/openjfx/javafx-base/21.0.9/javafx-base-21.0.9-win.jar'
+--patch-module
+com.mycompany.sistemgajifx='D:/OOP/SistemGajiFX/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'D:/OOP/SistemGajiFX/target/reports/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/OOP/SistemGajiFX/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SistemGajiFX 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/OOP/SistemGajiFX/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SistemGajiFX 1.0-SNAPSHOT API'
+com.mycompany.sistemgajifx
+'D:/OOP/SistemGajiFX/src/main/java/module-info.java'
+D:\OOP\SistemGajiFX\target\reports\apidocs\allclasses-index.html = 1792295440441
+D:\OOP\SistemGajiFX\target\reports\apidocs\allpackages-index.html = 1792295440443
+D:\OOP\SistemGajiFX\target\reports\apidocs\element-list = 1792295440400
+D:\OOP\SistemGajiFX\target\reports\apidocs\help-doc.html = 1792295440460
+D:\OOP\SistemGajiFX\target\reports\apidocs\index-all.html = 1792295440452
+D:\OOP\SistemGajiFX\target\reports\apidocs\index.html = 1792295440456
+D:\OOP\SistemGajiFX\target\reports\apidocs\member-search-index.js = 1792295440445
+D:\OOP\SistemGajiFX\target\reports\apidocs\module-search-index.js = 1792295440444
+D:\OOP\SistemGajiFX\target\reports\apidocs\overview-tree.html = 1792295440434
+D:\OOP\SistemGajiFX\target\reports\apidocs\package-search-index.js = 1792295440444
+D:\OOP\SistemGajiFX\target\reports\apidocs\search.html = 1792295440454
+D:\OOP\SistemGajiFX\target\reports\apidocs\tag-search-index.js = 1792295440445
+D:\OOP\SistemGajiFX\target\reports\apidocs\type-search-index.js = 1792295440445
